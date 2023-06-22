@@ -81,3 +81,10 @@ create_task_button.grid(row=3, column=0, columnspan=2, padx=5, pady=5)
 
 # Start the GUI event loop
 window.mainloop()
+
+#image![Screenshot (2)](https://github.com/Yash-Vidyasagar/Build-a-Task-Management-
+System-/assets/133989694/21857e6d-4c3c-4d2c-b119-17994f196e21)
+
+
+#image![Screenshot (3)](https://github.com/Yash-Vidyasagar/Build-a-Task-Management-System-/assets/133989694/1ecb69eb-c91e-4bb7-9ca3-2a3159424c47)
+
